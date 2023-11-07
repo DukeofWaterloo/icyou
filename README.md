@@ -1,5 +1,5 @@
 # IC-YOU
-IC-YOU is a STM32F401RE powered robot designed to detect nearby objects. Making use of strategically placed motors to provide pan and tilt functionality, IC-YOU is able to identify "targets" within 180 degrees of its initial position and offers both automatic and manual joystick controlled functionality.
+IC-YOU is a STM32F401RE powered robot designed to detect nearby objects. Making use of strategically placed motors to provide pan and tilt functionality, IC-YOU is able to identify "targets" within 180 degrees of its initial position and offers both automatic and manual joystick controlled functionality. Watch out!
 
 
 ![Top 3D view](https://github.com/DukeofWaterloo/icyou/assets/59591006/92d3a0a4-ef98-44ca-8041-54c0653f5899)
